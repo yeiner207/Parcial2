@@ -48,7 +48,7 @@ let users = [{
     "photo": "http://dummyimage.com/227x100.png/cc0000/ffffff"
 }, {
     "id": 7,
-    "name": "Cristiano",
+    "name": "Cristian",
     "phone": "537 835 8622",
     "email": "cbrownsworth6@cbsnews.com",
     "adress": "370 Pond Parkway",
