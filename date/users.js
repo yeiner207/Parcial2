@@ -5,7 +5,7 @@ let users = [{
     "email": "sserjeantson0@yolasite.com",
     "adress": "0685 Straubel Lane",
     "age": 88,
-    "photo": "http://dummyimage.com/136x100.png/cc0000/ffffff"
+    "photo": "https://randomuser.me/api/portraits/women/1.jpg"
 }, {
     "id": 2,
     "name": "Merle",
@@ -13,7 +13,7 @@ let users = [{
     "email": "mcornewall1@ted.com",
     "adress": "3194 Independence Pass",
     "age": 90,
-    "photo": "http://dummyimage.com/157x100.png/5fa2dd/ffffff"
+    "photo": "https://randomuser.me/api/portraits/men/2.jpg"
 }, {
     "id": 3,
     "name": "Tabbie",
@@ -21,7 +21,7 @@ let users = [{
     "email": "tsurplice2@craigslist.org",
     "adress": "96960 Luster Point",
     "age": 2,
-    "photo": "http://dummyimage.com/238x100.png/cc0000/ffffff"
+    "photo": "https://randomuser.me/api/portraits/women/3.jpg"
 }, {
     "id": 4,
     "name": "Marchall",
@@ -29,7 +29,7 @@ let users = [{
     "email": "mrowledge3@eventbrite.com",
     "adress": "449 Meadow Ridge Way",
     "age": 60,
-    "photo": "http://dummyimage.com/113x100.png/cc0000/ffffff"
+    "photo": "https://randomuser.me/api/portraits/men/4.jpg"
 }, {
     "id": 5,
     "name": "Baird",
@@ -37,7 +37,7 @@ let users = [{
     "email": "bstiebler4@theatlantic.com",
     "adress": "23 Browning Point",
     "age": 79,
-    "photo": "http://dummyimage.com/152x100.png/dddddd/000000"
+    "photo": "https://randomuser.me/api/portraits/women/5.jpg"
 }, {
     "id": 6,
     "name": "Brock",
@@ -45,7 +45,7 @@ let users = [{
     "email": "baleksandrev5@patch.com",
     "adress": "04 Pond Street",
     "age": 40,
-    "photo": "http://dummyimage.com/227x100.png/cc0000/ffffff"
+    "photo": "https://randomuser.me/api/portraits/men/6.jpg"
 }, {
     "id": 7,
     "name": "Cristian",
@@ -53,7 +53,7 @@ let users = [{
     "email": "cbrownsworth6@cbsnews.com",
     "adress": "370 Pond Parkway",
     "age": 33,
-    "photo": "http://dummyimage.com/202x100.png/cc0000/ffffff"
+    "photo": "https://randomuser.me/api/portraits/women/7.jpg"
 }, {
     "id": 8,
     "name": "Papageno",
@@ -61,7 +61,7 @@ let users = [{
     "email": "pjanodet7@themeforest.net",
     "adress": "6 Blaine Hill",
     "age": 12,
-    "photo": "http://dummyimage.com/133x100.png/5fa2dd/ffffff"
+    "photo": "https://randomuser.me/api/portraits/men/8.jpg"
 }, {
     "id": 9,
     "name": "Barrie",
@@ -69,7 +69,7 @@ let users = [{
     "email": "bbetteriss8@mtv.com",
     "adress": "74825 4th Trail",
     "age": 9,
-    "photo": "http://dummyimage.com/136x100.png/ff4444/ffffff"
+    "photo": "https://randomuser.me/api/portraits/women/9.jpg"
 }, {
     "id": 10,
     "name": "Chaim",
@@ -77,7 +77,7 @@ let users = [{
     "email": "cdebeauchemp9@bluehost.com",
     "adress": "0824 Maywood Circle",
     "age": 3,
-    "photo": "http://dummyimage.com/221x100.png/cc0000/ffffff"
+    "photo": "https://randomuser.me/api/portraits/men/10.jpg"
 }, {
     "id": 11,
     "name": "Judye",
@@ -85,7 +85,7 @@ let users = [{
     "email": "jgitshama@europa.eu",
     "adress": "8875 Heath Trail",
     "age": 31,
-    "photo": "http://dummyimage.com/155x100.png/dddddd/000000"
+    "photo": "https://randomuser.me/api/portraits/women/11.jpg"
 }, {
     "id": 12,
     "name": "Jarib",
@@ -93,7 +93,7 @@ let users = [{
     "email": "jmurtyb@unc.edu",
     "adress": "3 Union Court",
     "age": 15,
-    "photo": "http://dummyimage.com/144x100.png/dddddd/000000"
+    "photo": "https://randomuser.me/api/portraits/men/12.jpg"
 }, {
     "id": 13,
     "name": "Saundra",
@@ -101,7 +101,7 @@ let users = [{
     "email": "sgreaterexc@wiley.com",
     "adress": "67 Manley Pass",
     "age": 2,
-    "photo": "http://dummyimage.com/182x100.png/cc0000/ffffff"
+    "photo": "https://randomuser.me/api/portraits/women/13.jpg"
 }, {
     "id": 14,
     "name": "Jimmie",
@@ -109,7 +109,7 @@ let users = [{
     "email": "jpidgleyd@gnu.org",
     "adress": "8 Talmadge Road",
     "age": 21,
-    "photo": "http://dummyimage.com/220x100.png/5fa2dd/ffffff"
+    "photo": "https://randomuser.me/api/portraits/men/14.jpg"
 }, {
     "id": 15,
     "name": "Skye",
@@ -117,7 +117,7 @@ let users = [{
     "email": "scattinie@dagondesign.com",
     "adress": "3 Utah Hill",
     "age": 83,
-    "photo": "http://dummyimage.com/192x100.png/ff4444/ffffff"
+    "photo": "https://randomuser.me/api/portraits/women/15.jpg"
 }, {
     "id": 16,
     "name": "Alika",
@@ -125,7 +125,7 @@ let users = [{
     "email": "amattinsonf@apple.com",
     "adress": "39 Arizona Point",
     "age": 29,
-    "photo": "http://dummyimage.com/196x100.png/cc0000/ffffff"
+    "photo": "https://randomuser.me/api/portraits/men/16.jpg"
 }, {
     "id": 17,
     "name": "Nate",
@@ -133,7 +133,7 @@ let users = [{
     "email": "nfoggg@techcrunch.com",
     "adress": "932 Hauk Center",
     "age": 46,
-    "photo": "http://dummyimage.com/175x100.png/ff4444/ffffff"
+    "photo": "https://randomuser.me/api/portraits/women/17.jpg"
 }, {
     "id": 18,
     "name": "Roxine",
@@ -141,7 +141,7 @@ let users = [{
     "email": "rbrogiottih@devhub.com",
     "adress": "30 Lien Street",
     "age": 10,
-    "photo": "http://dummyimage.com/155x100.png/ff4444/ffffff"
+    "photo": "https://randomuser.me/api/portraits/men/18.jpg"
 }, {
     "id": 19,
     "name": "Colas",
@@ -149,7 +149,7 @@ let users = [{
     "email": "cchuggi@webs.com",
     "adress": "9 Bonner Park",
     "age": 4,
-    "photo": "http://dummyimage.com/163x100.png/cc0000/ffffff"
+    "photo": "https://randomuser.me/api/portraits/women/19.jpg"
 }, {
     "id": 20,
     "name": "Ora",
@@ -157,6 +157,6 @@ let users = [{
     "email": "owoolvettj@hexun.com",
     "adress": "174 Sunnyside Hill",
     "age": 31,
-    "photo": "http://dummyimage.com/249x100.png/dddddd/000000"
+    "photo": "https://randomuser.me/api/portraits/men/20.jpg"
 }]
 module.exports = users
